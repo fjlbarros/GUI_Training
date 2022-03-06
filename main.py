@@ -3,6 +3,7 @@ from tkinter import *
 def submit():
     print("A Temperatura é de: "+str(scale.get())+ " graus C")
 
+#Testing branches
 window = Tk()
 #window.geometry("420x420")
 window.title("A minha primeira Janela Python")
