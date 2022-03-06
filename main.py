@@ -4,6 +4,7 @@ def submit():
     print("A Temperatura é de: "+str(scale.get())+ " graus C")
 
 #Testing branches
+#2022/03
 window = Tk()
 #window.geometry("420x420")
 window.title("A minha primeira Janela Python")
